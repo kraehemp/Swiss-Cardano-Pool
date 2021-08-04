@@ -40,12 +40,7 @@
             "0": {
                 "name": "relay 1 eu",
                 "type": "relay",
-                "key": "https://adapools.org/connect/1879c941ae2717fa485699f7bed4c34a"
-            },
-            "1": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "https://adapools.org/connect/1879c941ae2717fa485699f7bed4c34a"
+                "key": "1879c941ae2717fa485699f7bed4c34a"
             }
         }
     }
