@@ -1,7 +1,7 @@
 {
-"name": "Swiss Premium Cardano Pool",
-"description": "A reliable staking pool with a Swiss location in Zurich. We operate the staking pool with 2x RaspberryPi 4. We are convinced of Cardano and their projects and support them.",
-"ticker": "SPCP",
-"homepage": "https://informatik-spezialist.ch",
-"extended": "https://git.io/JRULf"
+  "name": "Swiss Premium Cardano Pool",
+  "description": "A reliable staking pool with a Swiss location in Zurich. We operate the staking pool with 2x RaspberryPi 4. We are convinced of Cardano and their projects and support them.",
+  "ticker": "SPCP",
+  "homepage": "https://informatik-spezialist.ch",
+  "extended": "https://git.io/JRULf"
 }
